@@ -1,7 +1,12 @@
+### Yale List of Companies Leaving, Staying in Russia
+
 > this parser was written to collect a "Yale CELI List of Companies Leaving and Staying in Russia"
 
 [article](https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain)\
-[old dataset](https://www.kaggle.com/datasets/stereobooster/yale-som)
+[old dataset from kaggle](https://www.kaggle.com/datasets/stereobooster/yale-som)\
+[dataset](https://raw.githubusercontent.com/donBarbos/Yale_CELI_List_Parser/main/Yale_CELI_List_of_Companies_Leaving_and_Staying_in_Russia.csv)
+
+**Last Updated**: December 20, 2022
 
 ### user's manual
 

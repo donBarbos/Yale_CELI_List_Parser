@@ -6,7 +6,7 @@
 [old dataset from kaggle](https://www.kaggle.com/datasets/stereobooster/yale-som)\
 [dataset](https://raw.githubusercontent.com/donBarbos/Yale_CELI_List_Parser/main/Yale_CELI_List_of_Companies_Leaving_and_Staying_in_Russia.csv)
 
-**Last Updated**: December 20, 2022
+**Last Updated**: August 18, 2023
 
 ### user's manual
 

@@ -5,7 +5,7 @@ description = ""
 authors = ["donBarbos <donbarbos@proton.me>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8.1,<4.0"
 selenium = "^4.7.2"
 fake-useragent = "^1.1.1"
 webdriver-manager = "^3.8.5"

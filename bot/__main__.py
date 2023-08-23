@@ -37,7 +37,7 @@ def get_cell_from_table(section_num: int | None, index: int, field: int) -> str:
     return driver.find_element(
         By.XPATH,
         f"/html/body/main/article/section[{section_num}]/div/div/div[2]/table/tbody/tr[{index}]/td[{field}]",
-    ).text
+    ).get_attribute("innerHTML")
 
 
 def parse_table(grade: str) -> list[tuple[str, str, str, str, str]]:
@@ -52,7 +52,7 @@ def parse_table(grade: str) -> list[tuple[str, str, str, str, str]]:
     section_num: int | None = grades.get(grade)
     paragraph_text = driver.find_element(
         By.XPATH, f"/html/body/main/article/section[{section_num}]/div/div/div[2]/div[1]/p[1]"
-    ).text
+    ).get_attribute("innerHTML")
     companies_count: int = get_companies_count_from_paragraph(paragraph_text)
     companies_from_table: list[tuple[str, str, str, str, str]] = []
     for i in range(1, companies_count + 1):
@@ -95,8 +95,6 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         pass
-    except Exception as ex:
-        print(ex)
     finally:
         driver.close()
         driver.quit()

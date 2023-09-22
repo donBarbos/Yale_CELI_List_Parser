@@ -3,10 +3,11 @@
 > this parser was written to collect a "Yale CELI List of Companies Leaving and Staying in Russia"
 
 [article](https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain)\
-[old dataset from kaggle](https://www.kaggle.com/datasets/stereobooster/yale-som)\
-[dataset](https://raw.githubusercontent.com/donBarbos/Yale_CELI_List_Parser/main/Yale_CELI_List_of_Companies_Leaving_and_Staying_in_Russia.csv)
+[old dataset on kaggle](https://www.kaggle.com/datasets/stereobooster/yale-som)\
+[my dataset on kaggle](https://www.kaggle.com/datasets/donbarbos/yale-list-of-companies-leaving-staying-in-russia)\
+[my dataset on github](https://raw.githubusercontent.com/donBarbos/Yale_CELI_List_Parser/main/Yale_CELI_List_of_Companies_Leaving_and_Staying_in_Russia.csv)
 
-**Last Updated**: August 18, 2023
+**Last Updated**: September 20, 2023
 
 ### user's manual
 

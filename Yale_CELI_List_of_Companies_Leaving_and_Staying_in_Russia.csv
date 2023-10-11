@@ -365,6 +365,7 @@ Smith &amp; Nephew PLC,Stopped new investments,Health Care,United Kingdom,D
 Snap,halt advertisement ,Communication Services,United States,D
 Soudal,cancel investments in a brand new factory in Russia; but maintain other activities,Materials,Belgium,D
 Standard Chartered,Restricts Russian transactions,Financials,United Kingdom,D
+STHL,No deliveries,,Germany,D
 Subway,suspend new investments/advertising,Consumer Staples,United States,D
 Sumitomo Mitsui Financial,continue operations with local staff,Financials,Japan,D
 SWISS KRONO,Aborted Russian project and halted investments ,Industrials,Switzerland ,D
@@ -412,6 +413,7 @@ Boston Scientific,suspend all new investment and non-essential activity,Health C
 Brenntag,suspend exports to Russia; no information about local operations,Materials,Germany,C
 Bucher Industries,"not specified business activities in Russia were reduced ""substantially"" ",Industrials,Switzerland ,C
 Bureau Veritas,scaled back ,Industrials,France,C
+Burger King (Restaurant Brands),halt corporate support for franchises but retain ownership stake ,Consumer Staples,United States,C
 Carl Zeiss,Reduced business,Health Care,Germany,C
 Carlsberg,Signed agreement to sell Russian business. Waiting for finalization.,Consumer Staples,Denmark,C
 Carrier,not pursue new business opportunities but continue fulfilling existing contracts ,Industrials,United States,C
@@ -461,7 +463,7 @@ Hostinger,stop accepting payments for new purchases and renewals,Information Tec
 Idemitsu Kosan,stop coal imports; lubricants business unchanged,Energy,Japan,C
 Indesit,"suspend production due to ""full warehouses""",Consumer Discretionary,Italy,C
 Ingersoll Rand,scale back to only health critical services,Industrials,United States,C
-Ingka,"stop all exports, IKEA production; keep open retail centers (Mega)",Consumer Discretionary,Netherlands,C
+Ingka,Closed Mega shopping centers. Ended business in Russia,Consumer Discretionary,Netherlands,C
 "Inspire Brands (Dunkin' Donuts, Baskin Robins)",halt corporate support for franchisees,Consumer Discretionary,United States,C
 Intertrust,Not accepting new Russian clients &amp; started process of exiting all Russian Clients,Financials,Netherlands,C
 IPG Photonics,suspend new investments and reduce manufacturing in Russia,Information Technology,United States,C
@@ -498,7 +500,6 @@ Norsk Hydro," reduced deliveries and supplies to the contractual minimum for som
 nVent,Suspended new business in Russia,Industrials,United Kingdom,C
 Okta,halt new sales to Russia but continue supporting current customers,Information Technology,United States,C
 Oriflame Cosmetics,suspend online sales to end consumers but not others,Consumer Staples,Switzerland ,C
-Orion,Divested the rights of some of its self-care brands in Russia,Health Care,Finland,C
 OTP Bank,wind down corporate lending,Financials,Hungary ,C
 Paccar,stop direct sales in Russia but continue selling through third-parties,Industrials,United States,C
 Paul Wurth,"stopped new business, closed sites, and scaled back services",Industrials,Luxembourg,C
@@ -629,7 +630,6 @@ Bulgaria Air,suspend flights to Russia,Industrials,Bulgaria,B
 Bulgarian Postbank,stop operations in Russian ruble,Financials,Bulgaria,B
 bunq.com,suspend SWIFT transfers to sanctioned banks,Financials,Netherlands,B
 Burberry,suspend all shipments to Russia,Consumer Discretionary,United Kingdom ,B
-Burger King (Restaurant Brands),halt corporate support for franchises,Consumer Staples,United States,B
 Buta Airways,suspend flights to Russia,Industrials,Azerbaijan,B
 Callaway Golf ,Suspended business in Russia,Consumer Discretionary,United States,B
 Canada Goose,suspend all shipments to Russia,Consumer Discretionary,Canada,B
@@ -892,6 +892,7 @@ ON24,suspend all Russian activities,Information Technology,United States,B
 OP Bank Lithuania,temporarily stop the processing of all  payments from and to Russia &amp; Belarus,Financials,Lithuania,B
 OpenText,suspend all business,Information Technology,Canada,B
 Oracle,suspend all operations in Russia,Information Technology,United States,B
+Orion,Discontinued business operations in Russia ,Health Care,Finland,B
 Outokumpu,stop sales and deliveries to Russia,Materials,Finland,B
 PagerDuty,suspend cooperation with Russian customers,Information Technology,United States,B
 Panasonic,suspend operations in Russia,Consumer Discretionary,Japan,B
@@ -1304,7 +1305,7 @@ Hyve,Withdrew from Russia,Consumer Discretionary,United Kingdom,A
 IBM,wind down business in Russia,Information Technology,United States,A
 Icosagen,Ended business in Russia and Belarus,Industrials,Estonia,A
 IDEXX Labs,wind down operations &amp; liquidate subsidiary,Health Care,United States,A
-Ikea,fold up Russian presence,Consumer Discretionary,Sweden,A
+Ikea,Closed stores and sold factory. ,Consumer Discretionary,Sweden,A
 IMAX,Fully exit Russia  ,Consumer Discretionary,Canada,A
 IMCD,withdraw from Russia completely,Industrials,Netherlands,A
 IMI Plc,Withdrew from Russia,Materials,United Kingdom,A

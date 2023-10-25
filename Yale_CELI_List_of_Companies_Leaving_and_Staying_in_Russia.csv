@@ -1,4 +1,5 @@
 name,action,industry,country,yaleGrade
+ Coesia group,Many companies in group have Russia operations or portners,,,F
 Agrana,continue operating plant in Russia,Consumer Staples,Austria,F
 Agricultural Bank of China,Russian companies open accounts with the bank; decline to comment,Financials,China,F
 Air China,still flying to Russia,Industrials,China,F
@@ -346,6 +347,7 @@ Philips,online sales still available in Russia but suspend new marketing,Consume
 Polpharma,stop all new investments and limit deliveries to essential drugs only,Health Care,Poland,D
 Pottinger,limited deliveries to Russia sales subsidiary,Industrials,Austria,D
 Procter &amp; Gamble (P&amp;G),"Still operating, despite statement",Consumer Staples,United States,D
+Ravensburger | BRIO,Russia distribution through Alisa Toys,,Germany,D
 Reckitt Benckiser Group,"Freeze capital investments, advertising, sponsorships and promotions in Russia. Began process of aimed at transferring Russian business",Consumer Staples,United Kingdom ,D
 Red Bull,suspend new investments ,Consumer Staples,Austria,D
 Remondis,still operating in Russia; not disclosed publicly,Industrials,Germany,D
@@ -403,6 +405,7 @@ Amadeus IT Group,suspend partnership with Aeroflot,Information Technology,Spain,
 Amgen,suspend all non-essential business activities; keep delivering some medicines,Health Care,United States,C
 ArcelorMittal,Resumed steel supplies to Russia,Materials,Luxembourg,C
 ASBIS,amends contracts following new sanctions,Information Technology,Cyprus,C
+Atlas Copco,suspend deliveries in Russia,Industrials,Sweden,C
 Bank of Cyprus,maintain loan book; observe banking sanctions,Financials,Cyprus,C
 Beiersdorf,maintain skin and bodycare products; stop other products,Consumer Staples,Germany,C
 Bekaert,scale back business in Russia,Industrials,Belgium,C
@@ -588,7 +591,6 @@ Asos,suspend all shipments to Russia,Consumer Discretionary,United Kingdom ,B
 Association of International Certified Professional Accountants,indefinite suspension of services within Russia,Industrials,United States,B
 Aston Martin,suspend all shipments to Russia,Consumer Discretionary,United Kingdom ,B
 Asus,suspend shipments to Russia ,Information Technology,Taiwan,B
-Atlas Copco,suspend deliveries in Russia,Industrials,Sweden,B
 Atlassian,Suspended software sales to Russia,Information Technology,Australia,B
 Audi,suspend operations at Kaluga assembly plant,Consumer Discretionary,Germany,B
 Australia Post,Suspend all business with Russia,Communication Services,Australia,B

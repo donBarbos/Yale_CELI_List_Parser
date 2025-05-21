@@ -28,15 +28,15 @@ driver: webdriver.Chrome = webdriver.Chrome(
 
 
 def get_companies_count_from_paragraph(paragraph: str) -> int:
-    paragraph: str = paragraph.split(" Companies)")[0]  # remove all after count
-    count: str = re.findall(r"\b\d+\b", paragraph)[-1]
+    _paragraph: str = paragraph.split(" Companies)")[0]  # remove all after count
+    count: str = re.findall(r"\b\d+\b", _paragraph)[-1]
     return int(count)
 
 
 def get_cell_from_table(section_num: int | None, index: int, field: int) -> str:
     return driver.find_element(
         By.XPATH,
-        f"/html/body/main/article/section[{section_num}]/div/div/div[2]/table/tbody/tr[{index}]/td[{field}]",
+        f"/html/body/main/article/section[{section_num}]/div/div/div/div[2]/table/tbody/tr[{index}]/td[{field}]",
     ).get_attribute("innerHTML")
 
 
@@ -51,7 +51,8 @@ def parse_table(grade: str) -> list[tuple[str, str, str, str, str]]:
     }
     section_num: int | None = grades.get(grade)
     paragraph_text = driver.find_element(
-        By.XPATH, f"/html/body/main/article/section[{section_num}]/div/div/div[2]/div[1]/p[1]"
+        By.XPATH,
+        f"/html/body/main/article/section[{section_num}]/div/div/div/div[2]/div[1]/p[1]",
     ).get_attribute("innerHTML")
     companies_count: int = get_companies_count_from_paragraph(paragraph_text)
     companies_from_table: list[tuple[str, str, str, str, str]] = []

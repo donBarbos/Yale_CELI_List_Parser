@@ -7,7 +7,7 @@
 [my dataset on kaggle](https://www.kaggle.com/datasets/donbarbos/yale-list-of-companies-leaving-staying-in-russia)\
 [my dataset on github](https://raw.githubusercontent.com/donBarbos/Yale_CELI_List_Parser/main/Yale_CELI_List_of_Companies_Leaving_and_Staying_in_Russia.csv)
 
-**Last Updated**: October 25, 2023
+**Last Updated**: May 21, 2025
 
 ### user's manual
 
